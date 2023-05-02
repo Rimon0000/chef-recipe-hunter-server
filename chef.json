@@ -1,0 +1,81 @@
+[
+    {
+  "id": 1,
+  "chef_picture": "https://i.ibb.co/nwG0Yhx/chef1.jpg",
+  "chef_name": "John Smith",
+  "years_of_experience": 10,
+  "num_of_recipes": 25,
+  "likes": 100,
+  "bio": "John Smith is a seasoned chef with 10 years of experience in the culinary industry. He has a passion for creating flavorful and unique dishes, and has developed 25 delicious recipes that are loved by his fans. With 100 likes and counting, John's dishes are sure to impress.",
+  "recipe_name": "Grilled Salmon with Asparagus",
+  "ingredients": ["salmon fillet", "asparagus", "olive oil", "salt", "pepper"],
+  "cooking_method": "Grill the salmon and asparagus over medium heat until cooked through. Drizzle with olive oil and season with salt and pepper to taste.",
+  "rating": 4.5
+},
+{
+  "id": 2,
+  "chef_picture": "https://i.ibb.co/QK7RLCg/chef2.jpg",
+  "chef_name": "Sara Lee",
+  "years_of_experience": 8,
+  "num_of_recipes": 20,
+  "likes": 80,
+  "bio": "Sara Lee is a talented chef with 8 years of experience in the culinary industry. She is known for her creative use of spices and bold flavors, and has developed 20 delicious recipes that are loved by her fans. With 80 likes and counting, Sara's dishes are sure to impress.",
+  "recipe_name": "Spicy Chicken Fajitas",
+  "ingredients": ["chicken breast", "bell peppers", "onion", "chili powder", "cumin"],
+  "cooking_method": "Sear the chicken and vegetables in a pan with chili powder and cumin until fully cooked. Serve with tortillas and your favorite toppings.",
+  "rating": 4.2
+},
+{
+  "id": 3,
+  "chef_picture": "https://i.ibb.co/R0gz0L3/chef3.jpg",
+  "chef_name": "David Chang",
+  "years_of_experience": 15,
+  "num_of_recipes": 40,
+  "likes": 200,
+  "bio": "David Chang is a world-renowned chef with 15 years of experience in the culinary industry. He is the owner of several award-winning restaurants, and has developed 40 delicious recipes that are loved by his fans. With 200 likes and counting, David's dishes are sure to impress.",
+  "recipe_name": "Pork Belly Buns",
+  "ingredients": ["pork belly", "steamed buns", "hoisin sauce", "scallions", "cucumber"],
+  "cooking_method": "Slow cook the pork belly until tender. Assemble the buns with hoisin sauce, scallions, and cucumber slices.",
+  "rating": 4.8
+},
+{
+  "id": 4,
+  "chef_picture": "https://i.ibb.co/nj7S573/chef4.jpg",
+  "chef_name": "Julia Child",
+  "years_of_experience": 20,
+  "num_of_recipes": 50,
+  "likes": 300,
+  "bio": "Julia Child is a legendary chef with 20 years of experience in the culinary industry. She has written several best-selling cookbooks, and has developed 50 delicious recipes that are loved by her fans. With 300 likes and counting, Julia's dishes are sure to impress.",
+  "recipe_name": "Beef Bourguignon",
+  "ingredients": ["beef chuck", "bacon", "carrots", "onions", "red wine"],
+  "cooking_method": "Sear the beef chuck and bacon, then add carrots and onions and cook until softened. Deglaze the pan with red wine, then add beef broth and simmer until the beef is tender.",
+  "rating": 4.8
+},
+{
+  "id": 5,
+  "chef_name": "Gordon Ramsay",
+  "years_of_experience": 25,
+  "num_of_recipes": 75,
+  "likes": 500,
+  "bio": "Gordon Ramsay is a world-famous chef with 25 years of experience in the culinary industry. He is known for his fiery personality and high standards in the kitchen, and has developed 75 delicious recipes that are loved by his fans. With 500 likes and counting, Gordon's dishes are sure to impress.",
+  "recipe_name": "Beef Wellington",
+  "ingredients": ["beef fillet", "puff pastry", "mushrooms", "prosciutto", "mustard"],
+  "cooking_method": "Sear the beef fillet, then wrap it in prosciutto and mushrooms. Cover with puff pastry and bake in the oven until golden brown.",
+  "rating": 4.9
+},
+{
+  "id": 6,
+  "chef_picture": "https://i.ibb.co/680Jv7G/chef7.jpg",
+  "chef_name": "Alice Kim",
+  "years_of_experience": 7,
+  "num_of_recipes": 60,
+  "likes": 250,
+  "bio": "Alice Kim is a talented chef with 7 years of experience in the culinary industry. She specializes in Asian fusion cuisine and has developed 60 delicious recipes that are loved by her fans. With 250 likes and counting, Alice's dishes are sure to impress.",
+  "recipe_name": "Korean Fried Chicken",
+  "ingredients": ["chicken wings", "flour", "cornstarch", "gochujang", "soy sauce"],
+  "cooking_method": "Coat the chicken wings in a mixture of flour and cornstarch, then fry until crispy. Toss with gochujang and soy sauce for a delicious Korean twist.",
+  "rating": 4.6
+}
+]
+
+  
