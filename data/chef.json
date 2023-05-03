@@ -1,0 +1,295 @@
+[
+  {
+  "id": 1,
+  "chef_picture": "https://i.ibb.co/nwG0Yhx/chef1.jpg",
+  "chef_name": "Masaharu Morimoto",
+  "years_of_experience": 30,
+  "num_of_recipes": 100,
+  "likes": 400,
+  "bio": "Masaharu Morimoto is a renowned Japanese chef with 30 years of experience in the culinary world. He is known for his fusion of Japanese and Western cooking styles, and has developed 100 innovative recipes that have won him numerous awards. With 400 likes and counting, Morimoto's dishes are a must-try for any foodie.",
+  "recipes": [
+    {
+      "title": "Sushi Rolls",
+      "ingredients": [
+        "sushi rice",
+        "nori seaweed",
+        "avocado",
+        "cucumber",
+        "crab meat"
+      ],
+      "cooking_method": "Cook sushi rice and cut avocado and cucumber into thin slices. Place a sheet of nori seaweed on a sushi mat, and spread the rice evenly on top. Place the avocado, cucumber, and crab meat on top of the rice, and roll the sushi tightly using the mat. Slice into bite-sized pieces and serve with soy sauce and wasabi.",
+      "rating": 4.9
+    },
+    {
+      "title": "Teriyaki Chicken",
+      "ingredients": [
+        "chicken thighs",
+        "soy sauce",
+        "mirin",
+        "sake",
+        "sugar"
+      ],
+      "cooking_method": "Marinate chicken thighs in soy sauce, mirin, sake, and sugar for at least 30 minutes. Heat a grill or grill pan to medium-high heat, and grill the chicken for 5-7 minutes on each side, brushing with the marinade occasionally. Serve hot with rice and vegetables.",
+      "rating": 4.7
+    },
+    {
+      "title": "Miso Soup",
+      "ingredients": [
+        "dashi stock",
+        "miso paste",
+        "tofu",
+        "scallions",
+        "wakame seaweed"
+      ],
+      "cooking_method": "Heat dashi stock in a pot and bring to a boil. Reduce heat and add miso paste, stirring until it dissolves. Add tofu and wakame seaweed, and simmer for a few minutes until the tofu is cooked through. Serve hot, garnished with sliced scallions.",
+      "rating": 4.6
+    }
+  ]
+},
+
+{
+  "id": 2,
+  "chef_picture": "https://i.ibb.co/QK7RLCg/chef2.jpg",
+  "chef_name": "Jamie Oliver",
+  "years_of_experience": 25,
+  "num_of_recipes": 80,
+  "likes": 500,
+  "bio": "Jamie Oliver is a world-renowned chef with 25 years of experience in the culinary industry. He is known for his simple and delicious recipes, and has developed 80 dishes that are loved by his fans. With 500 likes and counting, Jamie's food is sure to impress.",
+  "recipes": [
+    {
+      "title": "Roast Chicken",
+      "ingredients": [
+        "whole chicken",
+        "lemon",
+        "garlic",
+        "rosemary",
+        "thyme"
+      ],
+      "cooking_method": "Preheat oven to 425°F. Season chicken with salt and pepper, and stuff with lemon, garlic, and herbs. Roast in the oven for 1 hour and 15 minutes, or until cooked through. Let rest for 10 minutes before carving.",
+      "rating": 4.6
+    },
+    {
+      "title": "Spicy Shrimp Pasta",
+      "ingredients": [
+        "spaghetti",
+        "shrimp",
+        "garlic",
+        "red pepper flakes",
+        "parsley"
+      ],
+      "cooking_method": "Cook spaghetti according to package instructions. Meanwhile, sauté shrimp and garlic in a large skillet until shrimp is cooked through. Add red pepper flakes and parsley, and toss with cooked spaghetti.",
+      "rating": 4.9
+    },
+    {
+      "title": "Beef Stew",
+      "ingredients": [
+        "beef chuck",
+        "carrots",
+        "potatoes",
+        "onions",
+        "beef broth"
+      ],
+      "cooking_method": "Sear the beef chuck, then add carrots, potatoes, and onions and cook until softened. Add beef broth and simmer until the beef is tender.",
+      "rating": 4.7
+    }
+  ]
+},
+
+{
+  "id": 3,
+  "chef_picture": "https://i.ibb.co/R0gz0L3/chef3.jpg",
+  "chef_name": "Gordon Ramsay",
+  "years_of_experience": 30,
+  "num_of_recipes": 75,
+  "likes": 500,
+  "bio": "Gordon Ramsay is a world-renowned chef with 30 years of experience in the culinary industry. He has developed 75 mouth-watering recipes that are loved by foodies around the globe. With over 500 likes, Gordon's dishes are sure to impress even the most discerning palates.",
+  "recipes": [
+  {
+  "title": "Beef Wellington",
+  "ingredients": [
+  "beef fillet",
+  "puff pastry",
+  "prosciutto",
+  "mushrooms",
+  "egg"
+  ],
+  "cooking_method": "Sear the beef fillet, then wrap it in prosciutto and mushrooms. Roll out puff pastry and wrap the beef in it. Brush with egg wash and bake for 30-40 minutes until golden brown.",
+  "rating": 4.9
+  },
+  {
+  "title": "Lamb Chops",
+  "ingredients": [
+  "lamb chops",
+  "olive oil",
+  "garlic",
+  "rosemary",
+  "salt and pepper"
+  ],
+  "cooking_method": "Season lamb chops with olive oil, garlic, rosemary, salt, and pepper. Grill for 2-3 minutes per side for medium-rare, or longer for desired doneness.",
+  "rating": 4.7
+  },
+  {
+  "title": "Beef Stroganoff",
+  "ingredients": [
+  "beef sirloin",
+  "mushrooms",
+  "onion",
+  "sour cream",
+  "beef broth"
+  ],
+  "cooking_method": "Sear beef sirloin and set aside. Sauté mushrooms and onions in the same pan. Add beef broth and let simmer for 5 minutes. Stir in sour cream and return beef to the pan. Simmer until the beef is cooked to your liking.",
+  "rating": 4.6
+  }
+  ]
+},
+
+{
+  "id": 4,
+  "chef_picture": "https://i.ibb.co/nj7S573/chef4.jpg",
+  "chef_name": "Julia Child",
+  "years_of_experience": 20,
+  "num_of_recipes": 50,
+  "likes": 300,
+  "bio": "Julia Child is a legendary chef with 20 years of experience in the culinary industry. She has written several best-selling cookbooks, and has developed 50 delicious recipes that are loved by her fans. With 300 likes and counting, Julia's dishes are sure to impress.",
+  "recipes": [
+    {
+      "title": "Spaghetti Bolognese",
+      "ingredients": [
+        "spaghetti",
+        "ground beef",
+        "canned tomatoes",
+        "onion",
+        "garlic"
+      ],
+      "cooking_method": "Cook spaghetti according to package instructions. Meanwhile, sauté ground beef, onion, and garlic in a large skillet until the beef is browned. Add canned tomatoes and simmer for 15-20 minutes. Serve sauce over cooked spaghetti.",
+      "rating": 4.5
+    },
+    {
+      "title": "Beef Bourguignon",
+      "ingredients": [
+        "beef chuck",
+        "bacon",
+        "carrots",
+        "onions",
+        "red wine"
+      ],
+      "cooking_method": "Sear the beef chuck and bacon, then add carrots and onions and cook until softened. Deglaze the pan with red wine, then add beef broth and simmer until the beef is tender.",
+      "rating": 4.8
+    },
+    {
+      "title": "Coq au Vin",
+      "ingredients": [
+        "chicken thighs",
+        "bacon",
+        "mushrooms",
+        "onions",
+        "red wine"
+      ],
+      "cooking_method": "Sear the chicken thighs and bacon, then sauté mushrooms and onions until softened. Deglaze the pan with red wine, then add chicken broth and simmer until the chicken is cooked through.",
+      "rating": 4.7
+    }
+  ]
+},
+
+{
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/hZL5rrc/chef5.jpg",
+    "chef_name": "David Chang",
+    "years_of_experience": 15,
+    "num_of_recipes": 40,
+    "likes": 250,
+    "bio": "David Chang is a renowned Korean-American chef and restaurateur, known for his creative and innovative cuisine. With 15 years of experience in the culinary industry, he has developed 40 delicious recipes that are loved by his fans. With 250 likes and counting, David's dishes are sure to satisfy.",
+    "recipes": [
+    {
+    "title": "Korean Fried Chicken",
+    "ingredients": [
+    "chicken wings",
+    "flour",
+    "cornstarch",
+    "garlic powder",
+    "soy sauce"
+    ],
+    "cooking_method": "Mix flour, cornstarch, and garlic powder together. Dredge chicken wings in the mixture and fry until crispy. Toss with soy sauce and serve immediately.",
+    "rating": 4.6
+    },
+    {
+    "title": "Kimchi Fried Rice",
+    "ingredients": [
+    "rice",
+    "kimchi",
+    "bacon",
+    "eggs",
+    "green onions"
+    ],
+    "cooking_method": "Cook rice according to package instructions. Meanwhile, sauté chopped bacon until crispy. Add kimchi and cook until heated through. Add cooked rice and stir until well combined. Make a well in the center of the pan and crack an egg into it. Cover and cook until the egg is set. Garnish with sliced green onions and serve.",
+    "rating": 4.8
+    },
+    {
+    "title": "Bibimbap",
+    "ingredients": [
+    "rice",
+    "beef",
+    "carrots",
+    "spinach",
+    "egg"
+    ],
+    "cooking_method": "Cook rice according to package instructions. Meanwhile, sauté sliced beef, carrots, and spinach until cooked through. Fry an egg and set aside. To assemble, place rice in a bowl and top with beef, carrots, spinach, and the fried egg. Serve with gochujang sauce.",
+    "rating": 4.7
+    }
+  ]
+},
+
+{
+  "id": 6,
+  "chef_picture": "https://i.ibb.co/680Jv7G/chef7.jpg",
+  "chef_name": "Lee Sung-kyung",
+  "years_of_experience": 10,
+  "num_of_recipes": 30,
+  "likes": 800,
+  "bio": "Lee Sung-kyung is a popular Korean actress and model who is also an accomplished cook. She has 10 years of experience in the culinary arts, and has developed 30 unique recipes that are both delicious and healthy. With 800 likes and counting, Lee's dishes are sure to please even the most discerning palates.",
+  "recipes": [
+  {
+  "title": "Bibimbap",
+  "ingredients": [
+  "rice",
+  "assorted vegetables",
+  "beef",
+  "egg",
+  "gochujang"
+  ],
+  "cooking_method": "Cook rice according to package instructions. Meanwhile, sauté assorted vegetables and beef until cooked through. Fry an egg to your desired level of doneness. Layer the rice in a bowl, then arrange the vegetables, beef, and egg on top. Serve with gochujang sauce.",
+  "rating": 4.9
+  },
+  {
+  "title": "Kimchi Stew",
+  "ingredients": [
+  "kimchi",
+  "pork belly",
+  "tofu",
+  "garlic",
+  "green onions"
+  ],
+  "cooking_method": "Sauté pork belly, garlic, and green onions in a pot until the pork is browned. Add kimchi and enough water to cover the ingredients, then simmer for 20 minutes. Add tofu and simmer for an additional 10 minutes.",
+  "rating": 4.7
+  },
+  {
+  "title": "Japchae",
+  "ingredients": [
+  "sweet potato noodles",
+  "beef",
+  "assorted vegetables",
+  "soy sauce",
+  "sesame oil"
+  ],
+  "cooking_method": "Cook sweet potato noodles according to package instructions. Meanwhile, sauté beef and assorted vegetables until cooked through. Mix soy sauce and sesame oil in a small bowl, then add to the beef and vegetables. Add the cooked noodles and toss until coated with sauce.",
+  "rating": 4.6
+  }
+  ]
+}
+]
+
+  
+
+
+
+
