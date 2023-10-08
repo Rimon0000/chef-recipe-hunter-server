@@ -4,9 +4,11 @@ const app = express()
 const port = 5000
 
 const chef = require('./data/chef.json')
+const menus = require('./data/menu.json')
 
 app.use(cors())
 
+//get chef
 app.get('/chef', (req, res) =>{
   res.send(chef)
 })
@@ -17,6 +19,11 @@ app.get('/chef/:id', (req, res) =>{
   // console.log(id)
   const selectedChef = chef.find(c => c.id == id)
   res.send(selectedChef)
+})
+
+//get menus
+app.get('/menus', (req, res) =>{
+  res.send(menus)
 })
 
 app.get('/', (req, res) => {

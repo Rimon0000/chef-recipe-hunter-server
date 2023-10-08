@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Bulgogi",
+        "photo": "https://i.ibb.co/mvySf6D/2.jpg",
+        "description": "Bulgogi is a classic Korean dish featuring thinly sliced marinated beef, grilled to perfection. Served with a side of kimchi and steamed rice, it's a sweet and savory delight."
+    },
+    {
+        "id": 2,
+        "name": "Bibimbap",
+        "photo": "https://i.ibb.co/LzcX91X/3.jpg",
+        "description": "Bibimbap is a colorful Korean rice bowl topped with a variety of vegetables, marinated beef, a fried egg, and gochujang sauce. It's a harmonious blend of flavors and textures."
+    },
+    {
+        "id": 3,
+        "name": "Kimchi Jjigae",
+        "photo": "https://i.ibb.co/N1TQnzd/4.jpg",
+        "description": "Kimchi Jjigae is a spicy and hearty Korean stew made with fermented kimchi, tofu, and pork. It's a comforting and traditional dish, best enjoyed with a bowl of steamed rice."
+    },
+    {
+        "id": 4,
+        "name": "Tteokbokki",
+        "photo": "https://i.ibb.co/2t7hrJ0/5.jpg",
+        "description": "Tteokbokki is a popular Korean street food dish made with chewy rice cakes, spicy gochujang sauce, fish cakes, and hard-boiled eggs. It's a spicy and satisfying treat."
+    },
+    {
+        "id": 5,
+        "name": "Japchae",
+        "photo": "https://i.ibb.co/rtnrrJk/7.jpg",
+        "description": "Japchae is a delightful Korean noodle dish made with sweet potato glass noodles stir-fried with vegetables, beef, and a soy-based sauce. It's a harmonious blend of sweet and savory flavors."
+    },
+    {
+        "id": 6,
+        "name": "Korean BBQ Galbi",
+        "photo": "https://i.ibb.co/ctt7LHH/1.jpg",
+        "description": "Korean BBQ Galbi features marinated short ribs grilled to perfection. The meat is tender, flavorful, and slightly sweet, making it a favorite at Korean BBQ restaurants."
+    },
+    {
+        "id": 7,
+        "name": "Doenjang Jjigae",
+        "photo": "https://i.ibb.co/sFZ5cKz/8.jpg",
+        "description": "Doenjang Jjigae is a rich and savory Korean soybean paste stew with tofu, vegetables, and sometimes seafood. It's a beloved comfort food in Korea."
+    },
+    {
+        "id": 8,
+        "name": "Korean Spicy Fried Chicken",
+        "photo": "https://i.ibb.co/TmYXTBB/10.jpg",
+        "description": "Korean Spicy Fried Chicken is crispy and coated in a fiery gochujang-based sauce. It's a popular dish in Korean fried chicken restaurants, known for its addictive heat."
+    },
+    {
+        "id": 9,
+        "name": "Haemul Pajeon",
+        "photo": "https://i.ibb.co/PhnjWd2/11.jpg",
+        "description": "Haemul Pajeon is a Korean seafood pancake made with green onions and a variety of seafood such as shrimp and squid. It's a savory and crispy delicacy."
+    },
+    {
+        "id": 10,
+        "name": "Bingsu",
+        "photo": "https://i.ibb.co/mqbpq7F/13.jpg",
+        "description": "Bingsu is a popular Korean dessert made with shaved ice, sweet toppings like red beans or fruit, and drizzled with condensed milk. It's a delightful way to cool down on a hot day."
+    }
+]
