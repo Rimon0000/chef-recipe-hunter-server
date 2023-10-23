@@ -5,6 +5,7 @@ const port = 5000
 
 const chef = require('./data/chef.json')
 const menus = require('./data/menu.json')
+const recipe = require('./data/popularRecipe.json')
 
 app.use(cors())
 
@@ -19,6 +20,11 @@ app.get('/chef/:id', (req, res) =>{
   // console.log(id)
   const selectedChef = chef.find(c => c.id == id)
   res.send(selectedChef)
+})
+
+//get recipe
+app.get('/recipes', (req, res) =>{
+  res.send(recipe)
 })
 
 //get menus

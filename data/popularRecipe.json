@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Classic Spaghetti Carbonara",
+      "photo": "https://i.ibb.co/D5t7JGF/img2.jpg",
+      "ingredients": [
+        "spaghetti",
+        "eggs",
+        "pecorino cheese",
+        "pancetta",
+        "black pepper"
+      ],
+      "cooking_method": "Cook spaghetti until al dente. In a separate pan, fry pancetta until crispy. Whisk eggs, pecorino cheese, and black pepper in a bowl. Drain cooked spaghetti and mix it with the egg mixture. Add crispy pancetta. Serve hot.",
+      "rating": 4.5,
+      "likes": 7120
+    },
+    {
+      "id": 2,
+      "title": "Chicken Tikka Masala",
+      "photo": "https://i.ibb.co/G7ZQpT4/img1.jpg",
+      "ingredients": [
+        "chicken thighs",
+        "yogurt",
+        "tomato sauce",
+        "onion",
+        "garam masala"
+      ],
+      "cooking_method": "Marinate chicken in yogurt and spices. Grill until cooked. In a separate pan, sauté onions and add tomato sauce and garam masala. Simmer and add cooked chicken. Serve with naan or rice.",
+      "rating": 4.8,
+      "likes": 2340
+    },
+    {
+      "id": 3,
+      "title": "Vegetable Stir-Fry",
+      "photo": "https://i.ibb.co/fxwRj1j/img3.jpg",
+      "ingredients": [
+        "bell peppers",
+        "broccoli",
+        "carrots",
+        "tofu",
+        "soy sauce"
+      ],
+      "cooking_method": "Stir-fry vegetables and tofu in a wok with soy sauce. Cook until tender. Serve over rice or noodles.",
+      "rating": 4.2,
+      "likes": 9301
+    },
+    {
+      "id": 4,
+      "title": "Chocolate Chip Cookies",
+      "photo": "https://i.ibb.co/pQCHsbn/img6.jpg",
+      "ingredients": [
+        "butter",
+        "sugar",
+        "eggs",
+        "flour",
+        "chocolate chips"
+      ],
+      "cooking_method": "Cream butter and sugar, add eggs, mix in flour, and fold in chocolate chips. Drop spoonfuls on a baking sheet and bake until golden brown.",
+      "rating": 4.7,
+      "likes": 1803
+    },
+    {
+      "id": 5,
+      "title": "Mango Lassi",
+      "photo": "https://i.ibb.co/PFZPmZN/img5.jpg",
+      "ingredients": [
+        "mango",
+        "yogurt",
+        "milk",
+        "sugar",
+        "cardamom"
+      ],
+      "cooking_method": "Blend mango, yogurt, milk, sugar, and a pinch of cardamom until smooth. Serve chilled.",
+      "rating": 4.6,
+      "likes": 1560
+    },
+    {
+      "id": 6,
+      "title": "Caprese Salad",
+      "photo": "https://i.ibb.co/7KtSFM3/img4.jpg",
+      "ingredients": [
+        "tomatoes",
+        "fresh mozzarella",
+        "fresh basil",
+        "olive oil",
+        "balsamic vinegar"
+      ],
+      "cooking_method": "Slice tomatoes and mozzarella. Layer with fresh basil leaves. Drizzle with olive oil and balsamic vinegar. Season with salt and pepper.",
+      "rating": 4.4,
+      "likes": 8340
+    }
+  ]
+  
